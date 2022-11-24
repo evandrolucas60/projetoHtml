@@ -6,7 +6,7 @@
 É um projeto que visa utilizar conceitos básicos de html para criar uma página web. O projeto consiste na criação de uma homepage de uma universidade fictícia chamada UNES.
 
 ## Layout web
-![Mobile 1](https://github.com/evandrolucas60/projetoHtml/blob/main/img/projetoHtml.gif)
+![Mobile 1](https://github.com/evandrolucas60/projetoHtml/blob/main/img/ProjetoHtml.gif)
 
 # Tecnologias utilizadas
 
